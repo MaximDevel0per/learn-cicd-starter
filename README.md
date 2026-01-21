@@ -1,4 +1,4 @@
-![badge](https://github.com/MaximDevel0per/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![pipeline](https://github.com/MaximDevel0per/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
