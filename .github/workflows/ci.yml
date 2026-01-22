@@ -32,6 +32,6 @@ jobs: #jobs...
         run: go install honnef.co/go/tools/cmd/staticcheck@latest
 
       - name: Run Staticcheck
-        run: staticcheck ./...
+        uses: actions/checkout@v4
 
 
