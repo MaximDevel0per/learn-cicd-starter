@@ -1,7 +1,7 @@
 name: ci
 
 on:
-  pull_request:
+  pull_request:  #runs when pull_rq is opened
     branches: [main]
 
 jobs:
