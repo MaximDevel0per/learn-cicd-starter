@@ -32,7 +32,7 @@ jobs: #jobs...
         run: go install honnef.co/go/tools/cmd/staticcheck@latest
 
       - name: Run Staticcheck
-        run: actions/checkout@v4
+        uses: actions/checkout@v4
 
       - name: Install gosec
         run: go install github.com/securego/gosec/v2/cmd/gosec@latest
